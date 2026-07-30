@@ -1,0 +1,6 @@
+{
+  "name": "LMS Kitab Kuning Online",
+  "description": "Aplikasi LMS Pembelajaran Kitab Kuning Online (Safinatun Najah & Fathul Qarib) dengan tampilan Pesantren Klasik-Modern, matan Arab berharakat, audio player, dan ekspor PHP/MySQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
